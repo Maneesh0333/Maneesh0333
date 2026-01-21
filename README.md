@@ -1,4 +1,4 @@
-# Hi, I'm Maneesh 👋
+## Hey there 👋
 
 ## 👨‍💻 Who am I?
 I’m Maneesh, an MCA graduate and software developer with a strong interest in building clean, scalable web and mobile applications. I enjoy turning ideas into real-world products using modern development tools.
@@ -20,5 +20,4 @@ I’m Maneesh, an MCA graduate and software developer with a strong interest in 
 ## 📫 How to Reach Me
 - LinkedIn: https://www.linkedin.com/in/maneesh-kumar-u  
 
----
 ⭐ Feel free to explore my repositories and connect with me!
