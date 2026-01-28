@@ -1,6 +1,9 @@
 ## Hey there 👋
 I’m Maneesh, an MCA graduate and software developer with a strong interest in building clean, scalable web and mobile applications. I enjoy turning ideas into real-world products using modern development tools.
 
+💻 Tech Stack:
+C++ C TypeScript Python Java HTML5 JavaScript CSS3 Express.js Flask Expo NodeJS Next JS React Router React Query React Native React Redux React Hook Form TailwindCSS Three js Vite MySQL MongoDB Postgres Figma Git
+
 ## 🚀 What am I currently working on?
 - Building full-stack applications using the MERN stack  
 - Improving my skills in React Native and Expo for mobile app development  
