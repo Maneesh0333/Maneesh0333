@@ -12,7 +12,8 @@ I’m Maneesh, an MCA graduate and software developer with a strong interest in 
 
 
 ## 📫 How to Reach Me
-- LinkedIn: https://www.linkedin.com/in/maneesh-kumar-u  
+- LinkedIn: https://www.linkedin.com/in/maneesh-kumar-u
+- Portfolio: https://maneesh-portfolio-site.vercel.app/
 
 
 ⭐ Feel free to explore my repositories and connect with me!
