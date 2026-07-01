@@ -78,11 +78,14 @@ I'm a **MERN Stack Developer** with hands-on experience building scalable, produ
 
 <div align="center">
 
-![Maneesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maneesh0333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Maneesh0333&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maneesh0333&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maneesh0333&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maneesh0333&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maneesh0333&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maneesh0333&theme=tokyonight&utcOffset=5.5)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Maneesh0333&color=1A56A0&style=flat-square&label=Profile+Views)
 
 </div>
 
